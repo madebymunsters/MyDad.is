@@ -1,10 +1,10 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: MyDad.Is
+description: Short Stories about Our Fathers
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://mydad.is
 baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+paginate_path: "page:num/"
+permalink: :title/
 
 markdown: redcarpet
 highlighter: pygments
@@ -19,9 +19,9 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: joeykirk
+   twitter: joeykirk
+   facebook: joeykirk
+   email: joey.kirk@gmail.com
 
-google_analytics: "UA-58263416-1"
+google_analytics: 
